@@ -5,7 +5,6 @@ Este é um sistema simples de gerenciamento de produtos construído com Spring B
 ## Funcionalidades
 - Cadastro de novos produtos
 - Listagem de produtos com ordenação por preço
-- Atualização e remoção de produtos
 - Persistência de dados com o banco de dados H2 em memória
 
 ## Tecnologias Utilizadas
